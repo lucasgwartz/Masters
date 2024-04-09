@@ -4,4 +4,4 @@
  
 Some insights I was able to find include the lowest score in a round, the lowest overall score and the player with the most Masters Victories. 
 
-As someone who has enjoyed watching Golf for many years, I was very intersted in this dataset, and took alot out of it. 
+As someone who has enjoyed watching Golf for many years, I was very interested in this dataset, and took alot out of it. 
